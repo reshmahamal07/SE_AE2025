@@ -22,7 +22,7 @@ GM: A person managing a Lasers and Feelings sesion.
 # Requirements
 Requirements are written here as user stories and they are in priority order .  
 
-- As player ,I want to be able to throw a dice, because the result of the throw determines if I succed or not in whatever I am trying to do.
+- As a player ,I want to be able to throw a dice, because the result of the throw determines if I succed or not in whatever I am trying to do.
 - A GM, I want to be able to use the software in a web browser, because web browsers are easy to use .
 
 
