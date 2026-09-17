@@ -6,10 +6,7 @@
 
 Laser and Feelings is  a quick-play roleplaying  game, based on the following premise:
 
-"You are the crew of the interstellar scout ship Raptor. Your mission is to explore uncharted regions of 
-space, deal with aliens both friendly and deadly, and defend the Consortium worlds against space dangers. 
-Captain Darcy has been overcome by the strange psychic entity known as Something Else, leaving you to fend for
- yourselves while he recovers in a medical pod."
+> "You are the crew of the interstellar scout ship Raptor. Your mission is to explore uncharted regions of  space, deal with aliens both friendly and deadly, and defend the Consortium worlds against space dangers. Captain Darcy has been overcome by the strange psychic entity known as Something Else, leaving you to fend foryourselves while he recovers in a medical pod."
 
 
 # Introduction
@@ -19,8 +16,13 @@ but other support ,for example, related to character information ,ship informati
 
 # Dictionary 
 
-GM: A person managing a Lasers and Feelings 
-# (for part b ) Requirments  
+GM: A person managing a Lasers and Feelings sesion.
+
+
+# Requirements
+Requirements are written here as user stories and they are in priority order .  
+
+-As a player ,I want to be able to throw a dice, because the result of the throw determines if I succed or not in whatever I am trying to do.
 
 
 
