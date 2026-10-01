@@ -47,7 +47,7 @@ None.
 
 - (Done) As a  GM, I want to be able to use the software in a web browser, because web browsers are easy to use .
 
-- (Not Started) As a player ,I want to be able to throw a dice, because the result of the throw determines if I succed or not in whatever I am trying to do.
+- (In progess) As a player ,I want to be able to throw a dice, because the result of the throw determines if I succed or not in whatever I am trying to do.
 
 - (Not Started) As a player, I want to be able to give my character a name, because I want to immersed into the game.
 
