@@ -18,6 +18,7 @@ but other support ,for example, related to character information ,ship informati
 # Dictionary 
 
 GM: A person managing a Lasers and Feelings sesion.
+Dice throw: Gives a random number between 1 to 6.
 
 
 # Requirements
